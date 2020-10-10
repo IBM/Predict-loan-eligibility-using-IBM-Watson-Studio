@@ -1076,8 +1076,6 @@ Sign-up for an **IBM Cloud** account to try this tutorial — [IBM Cloud](https:
 ## Blogs 
 [Predict Loan Eligibility using Machine Learning Models - towards data science](https://towardsdatascience.com/predict-loan-eligibility-using-machine-learning-models-7a14ef904057)
 
-[Predict Loan Eligibility using Machine Learning Models - freeCodeCamp](https://www.freecodecamp.org/news/use-machine-learning-models-to-predict-loan-eligibility/)
-
 ## Conclusion
 In this tutorial, we learned how to create models to predict the target variable, that is whether the applicant will be able to repay the loan or not.
 
